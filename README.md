@@ -1,2 +1,0 @@
-# SewaSmart
-SS
